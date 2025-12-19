@@ -1,5 +1,5 @@
-def add(x, y):
+def multiply(x, y):
     """This is an add function"""
-    return x + y
+    return x * y
 
-print(add(1,1))
+print(multiply(1,1))
