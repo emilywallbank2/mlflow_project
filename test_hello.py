@@ -1,4 +1,4 @@
-from hello import add
+from hello import multiply
 
 def test_add():
-    assert 2 == add(1,1)
+    assert 2 == multiply(1,1)
